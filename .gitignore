@@ -1,0 +1,13 @@
+# Compiled code and build output
+target/
+*.jar
+*.class
+
+# IDE configurations
+.idea/
+*.iml
+.vscode/
+
+# OS generated files
+.DS_Store
+Thumbs.db
